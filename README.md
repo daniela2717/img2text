@@ -1,4 +1,4 @@
-# img2text
+I'm hungry right now.
 A command line script to convert images to text 
 
 ## Usage:
